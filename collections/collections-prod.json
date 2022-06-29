@@ -1,0 +1,19 @@
+[
+    {
+    "name":"Servers",
+    "description":"serverdescription",
+    "cm": "21412412",
+    "collectionCount": 1000
+},
+{
+    "name":"nameless",
+    "description":"namelessdescription",
+    "cm": "21412412",
+    "collectionCount": 1000
+},{
+    "name":"VHS/tapes",
+    "description":"tapesdescription",
+    "cm": "21412412",
+    "collectionCount": 1000
+}
+]
