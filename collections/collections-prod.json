@@ -1,25 +1,25 @@
 [
     {
     "name":"Servers",
-    "description":"serverdescription",
+    "description":"1000 servers powering the encrypted network",
     "cm": "6Pqao4oRdXypidJMXDZbthXKQuzesPCkexte3f3USBPS",
-    "collectionCount": 1000
+    "collectionCount": 1310
 },
 {
     "name":"nameless",
-    "description":"namelessdescription",
+    "description":"1,310 NAMELESS hacking the encrypted network.",
     "cm": "x4QttqoZCuwVcrR8WhpvMd6ekRfPL4mtq8F1Jbnhg6z",
-    "collectionCount": 1000
+    "collectionCount": 1310
 },
 {
     "name":"nameless",
-    "description":"namelessdescription",
+    "description":"1,310 NAMELESS hacking the encrypted network.",
     "cm": "x4QttqoZCuwVcrR8WhpvMd6ekRfPL4mtq8F1Jbnhg6z",
     "collectionCount": 1000
 },
 {
     "name":"VHS/tapes",
-    "description":"tapesdescription",
+    "description":"More than just an illegally distributed copy of Hackers",
     "cm": "6vo34UVMwcwSnSBsTodr4gSajmuGp9Pwy4PMPK1Urome",
     "collectionCount": 1000
 }
