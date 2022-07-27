@@ -1,6 +1,6 @@
 [
     {
-    "name":"Servers",
+    "name":"server",
     "description":"1000 servers powering the encrypted network",
     "cm": "4NgCeuzLGoNeMhviPUAs6UUzsvMmxAdNBbMpFAGGYBPf",
     "collectionCount": 1000
@@ -12,7 +12,7 @@
     "collectionCount": 1310
 },
 {
-    "name":"VHS/tapes",
+    "name":"Hackers VHS Copy",
     "description":"More than just an illegally distributed copy of Hackers",
     "cm": "BL4NKnZaVBQbHtyHL9RmqXoyZaitzubF6fiRyrGshHrz",
     "collectionCount": 1000
